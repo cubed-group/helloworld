@@ -10,6 +10,9 @@
   "author": "0x74616e67 <0x74616e67@gmail.com>",
   "license": "MIT",
   "directories": {},
-  "files": [],
+  "files": [
+    "need-to-ignore.md",
+    "need-to-not-ignore.md"
+  ],
   "engines": {}
 }
