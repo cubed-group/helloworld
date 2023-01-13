@@ -9,6 +9,10 @@
   "keywords": [],
   "author": "0x74616e67 <0x74616e67@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cubed-group/helloworld.git"
+  },
   "directories": {},
   "files": [
     "need-to-ignore.md",
