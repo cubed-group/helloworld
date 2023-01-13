@@ -1,6 +1,6 @@
 {
   "name": "@cubed/helloworld",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "0x74616e67 <0x74616e67@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "directories": {},
+  "files": [],
+  "engines": {}
 }
